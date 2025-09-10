@@ -69,13 +69,6 @@
 | **Exploratory Testing**| Discovering unexpected bugs through exploration |
 | **Performance Testing**| Measuring system behavior under load           |
 
----
-
-## 📌 Pinned Projects
-- [**Selenium UI Framework**](https://github.com/USERNAME/Selenium-UI-Framework) – Cross-browser UI automation framework with POM and reporting.
-- [**API Testing Karate**](https://github.com/USERNAME/API-Testing-Karate) – REST API automation with Karate framework.
-- [**Appium Mobile Testing**](https://github.com/USERNAME/Mobile-Testing-Appium) – Mobile test automation using Appium.
-- [**Cucumber BDD Project**](https://github.com/USERNAME/Cucumber-BDD-Project) – BDD-style test automation using Cucumber.
 
 ---
 
